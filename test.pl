@@ -4,5 +4,5 @@ use warnings;
 use 5.010;
 
 
-say 'bon dia!';
+say 'Bon dia!';
 say 'bye!';
